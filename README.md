@@ -16,4 +16,4 @@
 
 SEO方面，站点应该注重关键词布局，避免关键词堆砌。合理的标题、描述、标签设置，能够帮助搜索引擎识别页面的相关性。与此同时，站点还应该通过增加外部链接、提高页面权重等方式，提升搜索引擎中的排名。
 
-<span style="display:none;">[Canonical link]( ）</span>
+<span style="display:none;">[Canonical link]( https://github.com/tsk543210/xxriben0909 ）</span>
